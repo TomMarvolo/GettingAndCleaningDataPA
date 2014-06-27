@@ -8,7 +8,7 @@ How to run this script Step by Step
   + Make Sure that the name of the folder is `UCI HAR Dataset`
 * Run the script `run_analysis.R` from RStudio or R console
 * A new File, named `tidyData.txt` should be in your Working Directory
-* The Explanation of each Data in the new DataSet is in the [Code Book]()
+* The Explanation of each Data in the new DataSet is in the [Code Book](https://github.com/TomMarvolo/GettingAndCleaningDataPA/blob/master/CodeBook.md)
 
 
 The `run_analysis.R` Script
