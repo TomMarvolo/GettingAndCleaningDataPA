@@ -10,8 +10,8 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Finally the set of variables that were estimated from these signals are:
 
-*mean: Mean value
-*std: Standard deviation
+* mean: Mean value
+* std: Standard deviation
 
 
 
